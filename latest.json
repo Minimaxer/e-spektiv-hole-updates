@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "build": "1",
+  "releaseDate": "2025-03-24",
+  "codename": "Initial Release",
+  "downloadUrl": "https://github.com/Minimaxer/e-spektiv-hole-updates/raw/main/releases/1.0.0/full.zip",
+  "md5": "5c6c15bc8e91d2bdd4e8d0f6793abeea",
+  "sha256": "9592530fad3556ff10af0d13a2273e93a21876341cece2516072b8fa96233c0c",
+  "changeLog": [
+    "Erste offizielle Version",
+    "Automatische Ignorierung vorhandener Einschussl\u00f6cher beim Aktivieren der Erkennung",
+    "Integration von bis zu 5 unabh\u00e4ngigen ROIs",
+    "PDF-Berichtsgenerierung mit detaillierten Trefferinformationen",
+    "Perspektivkorrektur zur Bildentzerrung",
+    "Dark Mode und andere Anpassungsm\u00f6glichkeiten",
+    "Vollst\u00e4ndige Progressive Web App (PWA) Unterst\u00fctzung"
+  ],
+  "minVersion": "1.0.0",
+  "requiredFiles": [
+    "yolo-picamera-webstream.py",
+    "object_detection.py",
+    "pdf_report_generator.py",
+    "updater.py",
+    "version.py",
+    "static/index.html",
+    "static/css/styles.css",
+    "static/js/roi-detector.js"
+  ],
+  "type": "full"
+}
