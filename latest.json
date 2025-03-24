@@ -1,19 +1,16 @@
 {
-  "version": "1.0.0",
-  "build": "1",
+  "version": "1.0.1",
+  "build": "2",
   "releaseDate": "2025-03-24",
-  "codename": "Initial Release",
-  "downloadUrl": "https://github.com/Minimaxer/e-spektiv-hole-updates/raw/main/releases/1.0.0/full.zip",
-  "md5": "5c6c15bc8e91d2bdd4e8d0f6793abeea",
-  "sha256": "9592530fad3556ff10af0d13a2273e93a21876341cece2516072b8fa96233c0c",
+  "codename": "Test Update",
+  "downloadUrl": "https://github.com/Minimaxer/e-spektiv-hole-updates/raw/main/releases/1.0.1/full.zip",
+  "md5": "5dd04e97d5ed0a7d54a09a664ed5371e",
+  "sha256": "9bad5701bf9062087ba55c5b01c2d6d6867d9bc4cd7051c14675c7594a013470",
   "changeLog": [
-    "Erste offizielle Version",
-    "Automatische Ignorierung vorhandener Einschussl\u00f6cher beim Aktivieren der Erkennung",
-    "Integration von bis zu 5 unabh\u00e4ngigen ROIs",
-    "PDF-Berichtsgenerierung mit detaillierten Trefferinformationen",
-    "Perspektivkorrektur zur Bildentzerrung",
-    "Dark Mode und andere Anpassungsm\u00f6glichkeiten",
-    "Vollst\u00e4ndige Progressive Web App (PWA) Unterst\u00fctzung"
+    "Test-Update zur \u00dcberpr\u00fcfung der Update-Funktionalit\u00e4t",
+    "Bugfix: Update-Button in Info-Popup",
+    "Optimierte Benutzeroberfl\u00e4che",
+    "Verbesserte Update-Mechanik"
   ],
   "minVersion": "1.0.0",
   "requiredFiles": [
