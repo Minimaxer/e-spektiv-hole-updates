@@ -3,7 +3,7 @@
   "build": "2",
   "releaseDate": "2025-03-24",
   "codename": "Test Update",
-  "downloadUrl": "https://raw.githubusercontent.com/Minimaxer/e-spektiv-hole-updates/main/releases/1.0.1/full.zip",
+  "downloadUrl": "https://github.com/Minimaxer/e-spektiv-hole-updates/raw/refs/heads/main/full.zip",
   "md5": "64e2f1f9da702e2b3204ff2afc274d81",
   "sha256": "d9ed177b0e77c7bea1ff2066ff657decd0add43a4f3062eea7c6a4d35845f73e",
   "changeLog": [
