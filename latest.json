@@ -4,8 +4,8 @@
   "releaseDate": "2025-03-24",
   "codename": "Test Update",
   "downloadUrl": "https://github.com/Minimaxer/e-spektiv-hole-updates/raw/main/releases/1.0.1/full.zip",
-  "md5": "5dd04e97d5ed0a7d54a09a664ed5371e",
-  "sha256": "9bad5701bf9062087ba55c5b01c2d6d6867d9bc4cd7051c14675c7594a013470",
+  "md5": "86b195a315f509db9a0500b75b80ed47",
+  "sha256": "be7f71f8ebaec9355c47540a6946d331353afecf03b8e6456095fc97cef2d03e",
   "changeLog": [
     "Test-Update zur \u00dcberpr\u00fcfung der Update-Funktionalit\u00e4t",
     "Bugfix: Update-Button in Info-Popup",
